@@ -4,8 +4,6 @@
 #url-web-page-url: 
 #announce:
 
-vless://9f5d69ed-d931-4bac-afec-8f4132b0e78b@virt.host:443?encryption=none&type=ws&path=%2Frw&security=none#🇺🇳 Автовыбор
-
 vless://9f5d69ed-d931-4bac-afec-8f4132b0e78b@45.158.186.140:443?encryption=none&type=ws&path=%2Frapidseed-ge&host=rapidseed-peka.node.aleque.net&security=tls&sni=rapidseed-peka.node.aleque.net&fp=qq#🇳🇱 Нидерланды | 1
 
 vless://9f5d69ed-d931-4bac-afec-8f4132b0e78b@45.158.186.140:443?encryption=none&type=ws&path=%2Frapidseed-4&host=rapidseed-peka.node.aleque.net&security=tls&sni=rapidseed-peka.node.aleque.net&fp=qq#🇳🇱 Нидерланды | 2
